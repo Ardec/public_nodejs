@@ -17,7 +17,7 @@
         <img class="logo-znany" src="/assets/znanylekarz.png" alt="znanylekarz" />
       </div>
     </div>
-     <Hero />
+    <Hero />
     <Oferta />
     <Opinions />
     <Form />

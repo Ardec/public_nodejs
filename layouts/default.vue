@@ -21,7 +21,7 @@ body {
   width: 100%;
   margin: 0;
   padding: 0;
-  
+
 }
 
 /* Dodaj styl, aby rozciągnąć kontener do pełnej szerokości */

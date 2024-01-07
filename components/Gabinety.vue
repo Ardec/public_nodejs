@@ -1,5 +1,6 @@
 <template>
-  <div class="header">
+  <div>
+     <div class="header">
     <h1>Gabinety</h1>
     <hr width="40px;" />
   </div>
@@ -21,6 +22,7 @@
         <div class="gallery-item"><img src="/assets/logo-1.png" alt="Opis obrazu" /></div>
         <div class="gallery-item"><img src="/assets/logo-1.png" alt="Opis obrazu" /></div>
     </div>
+  </div>
   </div>
 </template>
 
