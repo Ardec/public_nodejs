@@ -1,5 +1,6 @@
 <template>
-   <div class="header">
+<div>
+  <div class="header">
             <h1>Personel</h1>
             <hr width="40px;">
         </div>
@@ -17,6 +18,7 @@
           </div>
         </div>
     </div>
+</div>
 </template>
 
 

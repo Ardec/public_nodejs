@@ -1,5 +1,7 @@
 <!-- Komponent Header.vue -->
 <template>
+<div>
+
   <div class="header-container">
     <div class="top-info">
       W trosce o jak najlepszą jakość usług, przypominamy o telefonicznym potwierdzaniu
@@ -50,13 +52,15 @@
     </div>
     </Transition>
   </div>
+
+</div>
 </template>
 
 <script setup>
-//import { ref } from 'vue';
+import { ref } from 'vue';
 
 // Tworzymy zmienną do przechowywania stanu otwarcia menu
-//const isMenuOpen = ref(false);
+const isMenuOpen = ref(false);
 
 // Funkcja do przełączania stanu otwarcia/zamknięcia menu
 const toggleMenu = () => {
